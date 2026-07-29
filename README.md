@@ -1,1 +1,1 @@
-<img width="952" height="532" alt="Project_Architecture drawio" src="https://github.com/user-attachments/assets/28d6941f-0204-4e40-a306-58bc0c36ca35" />
+<img width="952" height="532" alt="_Project Architecture drawio" src="https://github.com/user-attachments/assets/ad0809d4-48b8-4753-abe8-79b1e60f4d2b" />
