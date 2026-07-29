@@ -1,2 +1,1 @@
-# BIKE_STORE_OLAP_BUILD_AND_ANALYSIS
-building a modern data warehouse with SQL server , including ETL process , Data modeling , data analysis
+<img width="952" height="532" alt="Project_Architecture drawio" src="https://github.com/user-attachments/assets/28d6941f-0204-4e40-a306-58bc0c36ca35" />
