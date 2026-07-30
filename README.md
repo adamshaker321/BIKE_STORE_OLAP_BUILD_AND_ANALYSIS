@@ -18,7 +18,7 @@ In the Silver layer, data is cleaned, validated, standardized, and transformed. 
 
 🥇 Gold Layer
 
-The Gold layer contains the analytical data model. Here, a Galaxy Schema is implemented by creating Fact and Dimension tables optimized for reporting and business analytics.
+The Gold layer contains the analytical data model. Here, a Star Schema is implemented by creating Fact and Dimension tables optimized for reporting and business analytics.
 
 📊 Analytics & Reporting
 
